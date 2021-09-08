@@ -1,6 +1,6 @@
 ## Hey, It's **@radiorz** here! 👋
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tikkhun&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tikkhun&show_icons=true">
 
 I'm Tikkhun, now majoring in frontend,a freshman using Javascript es6,Vue,Vuetify, express,fastify...
 
