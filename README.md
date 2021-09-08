@@ -4,6 +4,7 @@
 
 I'm Tikkhun, now majoring in frontend,a freshman using Javascript es6,Vue,Vuetify, express,fastify...
 
+------
 - 🚀 I use:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   - ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=vue)
