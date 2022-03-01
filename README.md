@@ -13,7 +13,7 @@ I'm Tikkhun, now majoring in frontend,a freshman using Javascript es6,Vue,Vuetif
   - ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=plastic&logo=Tailwind)
   - ![Fastify](https://img.shields.io/badge/-Fastify-black?style=plastic&logo=Fastify)
   - ![express](https://img.shields.io/badge/-express-black?style=plastic&logo=Express)
-  - ![electron](https://img.shields.io/badge/electron-electron-green)
+  - ![electron](https://img.shields.io/badge/-electron-electron-green)
 - 💬 I speak:
 
   - Bân-lâm-gú
