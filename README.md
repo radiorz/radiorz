@@ -7,18 +7,18 @@ I'm Tikkhun, now majoring in frontend,a freshman using Javascript es6,Vue,Vuetif
 ------
 - 🚀 I use:
 
-![JavaScript](https://img.shields.io/badge/-ecmascript-black?style=plastic&logo=javascript)
+  - ![JavaScript](https://img.shields.io/badge/-ecmascript-black?style=plastic&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue.js)
 
-![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=plastic&logo=Vuetify)
+  - ![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=plastic&logo=Vuetify)
 ![ElementUI](https://img.shields.io/badge/-ElementUI-blue?style=plastic&logo=element-ui)
 
-![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=plastic&logo=TailwindCSS)
+  - ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=plastic&logo=TailwindCSS)
 
-![Fastify](https://img.shields.io/badge/-Fastify-black?style=plastic&logo=Fastify)
+  - ![Fastify](https://img.shields.io/badge/-Fastify-black?style=plastic&logo=Fastify)
 ![express](https://img.shields.io/badge/-express-black?style=plastic&logo=Express)
 
-![electron](https://img.shields.io/badge/-electron-green?style=plastic&logo=Electron)
+  - ![electron](https://img.shields.io/badge/-electron-green?style=plastic&logo=Electron)
 ![reactnative](https://img.shields.io/badge/-ReactNative-blue?style=plastic&log=ReactNative)
 
 - 💬 I speak:
